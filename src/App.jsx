@@ -405,7 +405,7 @@ function App() {
         <p className="eyebrow">PRECISION MEETS SIMPLICITY</p>
         <h1>Think beyond <span>numbers.</span></h1>
         <p className="hero-copy">
-          Scientific power. Beautifully simple.
+          Scientific power.
         </p>
       </section>
 
